@@ -106,9 +106,21 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'wolfSidebar',
+            position: 'left',
+            label: 'WOLF RPG Editor',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'pixelSidebar',
             position: 'left',
             label: '像素画教程',
+          }, 
+          {
+            type: 'docSidebar',
+            sidebarId: 'softwareSidebar',
+            position: 'left',
+            label: '软件相关',
           },
           {
             href: 'https://www.57hmpg.top',
