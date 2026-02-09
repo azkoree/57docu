@@ -1,4 +1,4 @@
-# 像素色板
+# 1 - 像素色板
 
 [原文地址](https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes)
 
