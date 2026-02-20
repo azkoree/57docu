@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+---
+
+
+
 # RPG Maker 系列的地图绘制技巧
 
 原视频地址：[Actually Explaining: RPG Maker Mapping Tips](https://www.youtube.com/watch?v=u34p5N-VQ4k)

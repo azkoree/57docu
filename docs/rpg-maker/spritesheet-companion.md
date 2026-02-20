@@ -1,3 +1,9 @@
+---
+sidebar_position: 4
+---
+
+
+
 # Spritesheet Companion
 
 一个用于在线编辑精灵表的工具，源地址：[](https://iristoid.itch.io/spritesheet-companion)
