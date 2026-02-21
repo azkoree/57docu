@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+---
+
+
+
 # MZ插件编写指南
 
 据说是官方的教程，不过我不太清楚原地址在哪里，我是从这里拿的：[rmmz-corescript-dev](https://github.com/leandiez/rmmz-corescript-dev
