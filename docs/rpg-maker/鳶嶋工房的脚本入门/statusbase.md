@@ -1,3 +1,9 @@
+---
+sidebar_position: 5
+---
+
+
+
 # RMMZ的状态显示相关
 
 原文：[『RPGツクールMZ』のステータス表示周り](https://zenn.dev/tonbi/articles/7b3a8c58812b48#window_statusbase)
