@@ -104,12 +104,12 @@ const config = {
             position: 'left',
             label: 'RPG Maker',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'wolfSidebar',
-            position: 'left',
-            label: 'WOLF RPG Editor',
-          },
+//          {
+//           type: 'docSidebar',
+//            sidebarId: 'wolfSidebar',
+//            position: 'left',
+//            label: 'WOLF RPG Editor',
+//          },
           {
             type: 'docSidebar',
             sidebarId: 'pixelSidebar',

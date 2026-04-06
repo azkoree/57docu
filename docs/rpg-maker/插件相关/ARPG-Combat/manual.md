@@ -2,6 +2,8 @@
 
 For Version 1.6.2+
 
+***没翻完***
+
 # RPG Maker Action Combat
 
 通过notetag、注释、条件分歧和插件命令，来实现想要的功能和效果
